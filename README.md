@@ -92,3 +92,12 @@ Below are some resources to help you find and choose: colors, fonts, animations,
 * [Dribbble](https://dribbble.com/)
 * [Behance](https://www.behance.net/)
 * [Pttrns](http://www.pttrns.com/)
+
+**Development Tools**
+
+Make sure you have the Xcode Command Line Tools installed before going down this route. If you do each of these bullet points in order, you will have Cocoapods without any problems. Happy coding!
+
+* [RVM](http://rvm.io/rvm/install) - Install RVM with Stable Ruby
+* [Homebrew](http://brew.sh/) - Install is at the very bottom
+* [Rubygems](http://rubygems.org/) - `$ brew install rubygems`
+* [Cocoapods](http://cocoapods.org/) - `$ gem install cocoapods`
